@@ -1,2 +1,2 @@
-# javascript.github.io
+# Grace's main repo for javascript projects
 Repository
